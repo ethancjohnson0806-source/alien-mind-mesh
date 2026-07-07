@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env
+mind_v84.json
+mind_v10_softened.json
+pasted_content.txt
